@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date:
+## Date: 15/05/2024
 
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
@@ -28,8 +28,6 @@ Publish the website in the LocalHost.
 ## PROGRAM :
 1.html
 ```
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -73,16 +71,16 @@ Publish the website in the LocalHost.
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="webhome.html">Home</a>
+                        <a class="nav-link" href="1.html">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">About</a>
+                        <a class="nav-link" href="2.html">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="product.html">Products</a>
+                        <a class="nav-link" href="3.html">Products</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact</a>
+                        <a class="nav-link" href="4.html">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -149,10 +147,10 @@ Publish the website in the LocalHost.
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="home.html">Home</a>
+                        <a class="nav-link" href="1.html">Home</a>
                     </li>
                     <li class="nav-item dropdown active">
-                        <a class="nav-link dropdown-toggle" href="about.html" id="navbarDropdownAbout" role="button"
+                        <a class="nav-link dropdown-toggle" href="2.html" id="navbarDropdownAbout" role="button"
                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             About
                         </a>
@@ -160,11 +158,11 @@ Publish the website in the LocalHost.
                             <a class="dropdown-item" href="#vision">Vision</a>
                             <a class="dropdown-item" href="#mission">Mission</a>
                             <a class="dropdown-item" href="#values">Values</a>
-                            <!-- Add more subheadings as needed -->
+                            
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="product.html">Products</a>
+                        <a class="nav-link" href="3.html">Products</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Contact</a>
@@ -204,7 +202,6 @@ Publish the website in the LocalHost.
                         <li>Teamwork: We work together as a team to achieve our goals and deliver exceptional results.</li>
                     </ul>
                 </div>
-                <!-- Add more subheadings as needed -->
             </div>
         </div>
     </div>
@@ -247,16 +244,16 @@ Publish the website in the LocalHost.
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
-            <a class="nav-link" href="home.html">Home</a>
+            <a class="nav-link" href="1.html">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="about.html">About</a>
+            <a class="nav-link" href="2.html">About</a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="product.html">Products <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="3.html">Products <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contact.html">Contact</a>
+            <a class="nav-link" href="4.html">Contact</a>
           </li>
         </ul>
         
@@ -271,7 +268,7 @@ Publish the website in the LocalHost.
         <h1 class="text-center">Our Best Selling Products!</h1>
         <div class="card-deck">
           <div class="card">
-            <img src="para.png" class="card-img-top" alt="Product 1">
+            <img src="product1.jpg" class="card-img-top" alt="Product 1">
             <div class="card-body">
               <h5 class="card-title">Paracetemol</h5>
               <p class="card-text">30 tablets of Paracetemol that acts as a painkiller and fever reducer.</p>
@@ -279,7 +276,7 @@ Publish the website in the LocalHost.
             </div>
           </div>
           <div class="card">
-            <img src="amoxy.png" class="card-img-top" alt="Product 2">
+            <img src="product2.jpg" class="card-img-top" alt="Product 2">
             <div class="card-body">
               <h5 class="card-title">Amoxicillin</h5>
               <p class="card-text">30 tablets of Amoxicillin to treat bacterial infection</p>
@@ -287,7 +284,7 @@ Publish the website in the LocalHost.
             </div>
           </div>
           <div class="card">
-            <img src="aspi2.png" class="card-img-top" alt="Product 3">
+            <img src="product3.jpeg" class="card-img-top" alt="Product 3">
             <div class="card-body">
               <h5 class="card-title">Aspirin</h5>
               <p class="card-text">50 tablets of aspirin to be used as painkiller.</p>
@@ -336,16 +333,16 @@ Publish the website in the LocalHost.
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
-            <a class="nav-link" href="home.html">Home</a>
+            <a class="nav-link" href="1.html">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="about.html">About</a>
+            <a class="nav-link" href="2.html">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="product.html">Products</a>
+            <a class="nav-link" href="3.html">Products</a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="contact.html">Contact <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="4.html">Contact <span class="sr-only">(current)</span></a>
           </li>
         </ul>
       </div>
@@ -402,17 +399,15 @@ Publish the website in the LocalHost.
 
 </html>
 
-
 ```
 
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-05-13 221217.png>)
-![alt text](<Screenshot 2024-05-13 221305.png>)
-![alt text](<Screenshot 2024-05-13 221545.png>)
-
-![alt text](<Screenshot 2024-05-13 221321.png>)
+![alt text](<Screenshot 2024-05-15 085224.png>)
+![alt text](<Screenshot 2024-05-15 085737.png>)
+![alt text](<Screenshot 2024-05-15 085612.png>)
+![alt text](<Screenshot 2024-05-15 085625.png>)
 
 
 
